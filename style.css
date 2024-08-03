@@ -1,0 +1,324 @@
+.text {
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(7, 7, 51);
+    margin-left: 100px;
+}
+
+.container {
+    width: 350px;
+    height: 420px;
+    border: 4px solid rgb(7, 7, 51);
+    gap: 10px;
+    ;
+}
+
+.one {
+    height: 70px;
+    width: auto;
+    display: grid;
+    grid-template-columns: auto, auto, auto;
+    ;
+    background-color: rgb(7, 7, 51);
+    grid-column: 1/span 3;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.two {
+    height: 150px;
+    width: 150px;
+    display: grid;
+    grid-template-columns: auto, auto, auto;
+    background-color: rgb(7, 7, 51);
+    grid-row: 1/span 2;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+.three {
+    height: 70px;
+    width: 160px;
+    display: grid;
+    grid-template-columns: auto, auto, auto;
+    background-color:rgb(7, 7, 51);
+    grid-column: 1/span 1;
+    margin-left: 180px;
+    margin-top: -150px;
+    margin-right: 70px;
+}
+
+.four {
+
+    height: 70px;
+    width: 160px;
+    display: grid;
+    grid-template-columns: auto, auto, auto;
+    background-color: rgb(7, 7, 51);
+    grid-column: 1/span 1;
+    margin-left: 180px;
+    margin-top: 10px;
+    margin-right: 60%;
+}
+
+.five {
+
+    height: 100px;
+    width: 330px;
+    display: grid;
+    grid-template-columns: auto, auto, auto;
+    ;
+    background-color: rgb(7, 7, 51);
+    grid-column: 1/span 3;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.six{
+    height: 30px;
+    width: 330px;
+    display: grid;
+    grid-template-columns: auto, auto, auto;
+    ;
+    background-color: rgb(7, 7, 51);
+    grid-column: 1/span 3;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;}
+
+
+.containerone{
+    width: 350px;
+    height: 420px;
+    border: 4px solid rgb(9, 92, 9);
+    margin-left: 34%;}
+
+.texttwo{
+
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(7, 7, 39);
+    margin-left: 40%;
+    margin-top: -475px;
+}
+
+
+    .itemone {
+        height: 70px;
+        width: auto;
+        display: grid;
+        grid-template-columns: auto, auto, auto;
+        ;
+        background-color: rgb(212, 110, 15);
+        grid-column: 1/span 3;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    
+    .itemtwo {
+        height: 150px;
+        width: 150px;
+        display: grid;
+        grid-template-columns: auto, auto, auto;
+        background-color:  rgb(212, 110, 15);
+        grid-row: 1/span 2;
+        margin-left: 10px;
+        margin-top: 30px;
+    }
+    
+    .itemthree {
+        height: 70px;
+        width: 160px;
+        display: grid;
+        grid-template-columns: auto, auto, auto;
+        background-color:  rgb(212, 110, 15);
+        grid-column: 1/span 1;
+        margin-left: 180px;
+        margin-top: -150px;
+        margin-right: 70px;
+    }
+    
+    .itemfour {
+    
+        height: 70px;
+        width: 160px;
+        display: grid;
+        grid-template-columns: auto, auto, auto;
+        background-color:  rgb(212, 110, 15);
+        grid-column: 1/span 1;
+        margin-left: 180px;
+        margin-top: 10px;
+        margin-right: 60%;
+    }
+    
+    .itemfive {
+    
+        height: 100px;
+        width: 330px;
+        display: grid;
+        grid-template-columns: auto, auto, auto;
+        ;
+        background-color:  rgb(212, 110, 15);
+        grid-column: 1/span 3;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    .itemsix{
+   height: 30px;
+   width: 330px;
+   display: grid;
+   grid-template-columns: auto,auto,auto;
+   background-color:  rgb(212, 110, 15);
+   grid-column: 1/span 3;
+   margin-left: 10px;
+   margin-top: 10px;
+   margin-top: 10px;
+    }
+
+
+
+
+.textthree{
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: navy;
+    margin-left: 80%;
+    margin-top: -475px;}
+
+.containertwo{
+    width: 350px;
+    height: 420px;
+    border: 4px solid rgb(124, 20, 34);
+    margin-left: 67%;}
+
+
+    .gridone {
+        height: 70px;
+        width: auto;
+        display: grid;
+        grid-template-columns: auto, auto, auto;
+        ;
+        background-color: rgb(7, 7, 51);
+        grid-column: 1/span 3;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+        color: aliceblue;
+        text-align: center;
+    }
+    
+    .gridtwo {
+        height: 150px;
+        width: 150px;
+        display: grid;
+        grid-template-columns: auto, auto, auto;
+        background-color: rgb(7, 7, 51);
+        grid-row: 1/span 2;
+        margin-left: 10px;
+        margin-top: 30px;
+        color: aliceblue;
+        text-align: center;
+    }
+    
+    .gridthree {
+        height: 70px;
+        width: 160px;
+        display: grid;
+        grid-template-columns: auto, auto, auto;
+        background-color: rgb(7, 7, 51);
+        grid-column: 1/span 1;
+        margin-left: 180px;
+        margin-top: -150px;
+        margin-right: 70px;
+        color: aliceblue;
+        text-align: center;
+    }
+    
+    .gridfour {
+    
+        height: 70px;
+        width: 160px;
+        display: grid;
+        grid-template-columns: auto, auto, auto;
+        background-color: rgb(7, 7, 51);
+        grid-column: 1/span 1;
+        margin-left: 180px;
+        margin-top: 10px;
+        margin-right: 60%;
+        color: aliceblue;
+        text-align: center;
+    }
+    
+    .gridfive {
+    
+        height: 100px;
+        width: 330px;
+        display: grid;
+        grid-template-columns: auto, auto, auto;
+        ;
+        background-color: rgb(7, 7, 51);
+        grid-column: 1/span 3;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+        color: aliceblue;
+        text-align: center;
+    }
+    .gridsix{
+        height: 30px;
+        width: 330px;
+        display: grid;
+        grid-template-columns: auto, auto, auto;
+        ;
+        background-color: rgb(7, 7, 51);
+        grid-column: 1/span 3;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+        color: aliceblue;
+        text-align: center;
+    
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+]
